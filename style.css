@@ -39,6 +39,5 @@ footer {
 }
 
 #details > div {
-  float: center; 
   background: red;
 }
