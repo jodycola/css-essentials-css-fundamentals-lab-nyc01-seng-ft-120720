@@ -39,6 +39,7 @@ footer {
 }
 
 #details > div {
+  float: left;
   text-align: center;  
   width: 100%;
   margin-left: auto;
