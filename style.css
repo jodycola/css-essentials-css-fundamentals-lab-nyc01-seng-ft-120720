@@ -37,3 +37,7 @@ footer {
   margin-right: auto;
 
 }
+
+#details > div {
+  float: left; 
+}
