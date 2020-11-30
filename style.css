@@ -39,6 +39,9 @@ footer {
 }
 
 #details > div {
-  float: none;
+  text-align: center;  
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
   background: red;
 }
